@@ -1,4 +1,4 @@
-# Building-a-Wazuh-Powered-SOC-From-Deployment-to-Automated-Incident-Response
+# Building a Wazuh-Powered SOC: From Deployment to Automated Incident Response
 A hands-on Wazuh SOC portfolio showcasing the implementation of a security monitoring environment across Windows and Linux systems. The projects cover the complete SOC lifecycle, including platform deployment, telemetry collection, detection engineering, threat hunting, alert triage, incident investigation, File Integrity Monitoring, automated containment, and SOAR-driven response workflows.
 
 ## 🎯 Objective
