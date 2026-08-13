@@ -1,8 +1,8 @@
 # Building-a-Wazuh-Powered-SOC-From-Deployment-to-Automated-Incident-Response
-A practical Wazuh SOC portfolio demonstrating end-to-end security operations, from SIEM deployment and Windows/Linux monitoring to detection engineering, threat hunting, incident investigation, FIM, Active Response, and Tines SOAR automation.
+A hands-on Wazuh SOC portfolio showcasing the implementation of a security monitoring environment across Windows and Linux systems. The projects cover the complete SOC lifecycle, including platform deployment, telemetry collection, detection engineering, threat hunting, alert triage, incident investigation, File Integrity Monitoring, automated containment, and SOAR-driven response workflows.
 
 ## 🎯 Objective
-To build and operate a functional SOC environment using Wazuh, developing hands-on capabilities in security monitoring, log analysis, custom detection, incident investigation, threat containment, and automated response through Wazuh Active Response and Tines SOAR.
+To develop practical SOC analyst capabilities by building and operating a Wazuh-based security operations environment. The objective was to gain experience transforming raw security telemetry into actionable detections, investigating suspicious activity, validating security events, and applying automated response mechanisms to improve the speed and consistency of incident handling.
 
 ## 📊 Projects
 
