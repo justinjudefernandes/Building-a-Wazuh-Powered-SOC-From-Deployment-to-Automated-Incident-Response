@@ -28,7 +28,7 @@ I further developed incident response capabilities through Wazuh Active Response
 
 Overall, this portfolio strengthened my understanding of the complete SOC workflow — from telemetry collection and detection to investigation, containment, and automated response.
 
-## 🛡️ Skill Set
+## 🛡️ Security Capabilities
 - **Wazuh SIEM/XDR** – Deployment, administration, configuration, and security monitoring
 - **Security Monitoring** – Centralized collection and analysis of Windows and Linux telemetry
 - **Detection Engineering** – Custom Wazuh rules, alert creation, tuning, and event correlation
