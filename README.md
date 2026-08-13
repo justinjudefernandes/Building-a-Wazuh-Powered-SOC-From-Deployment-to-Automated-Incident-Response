@@ -6,7 +6,7 @@ To demonstrate Wazuh-based security operations capabilities across the SOC lifec
 
 ## 📊 Projects
 
-> **📌 Portfolio Structure:** The projects demonstrate progressively broader Wazuh security operations capabilities, covering platform deployment, telemetry collection, detection engineering, threat hunting, incident investigation, adversary simulation, automated containment, and SOAR-driven response.
+> **📌 SOC Capability Progression:** The portfolio follows the security operations lifecycle from platform deployment and telemetry collection through detection engineering, investigation, containment, adversary simulation, and automated SOAR-driven response.
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
