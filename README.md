@@ -10,12 +10,12 @@ To demonstrate Wazuh-based security operations capabilities across the SOC lifec
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
-| 1 | Wazuh Platform Deployment & Endpoint Integration | <a href="https://github.com/justinjudefernandes/Wazuh-Platform-Deployment-Endpoint-Integration/">View Project</a> |
-| 2 | Wazuh Telemetry, SOC Monitoring & Threat Detection | <a href="https://github.com/justinjudefernandes/Wazuh-Telemetry-SOC-Monitoring-Threat-Detection/">View Project</a> |
-| 3 | Wazuh Active Response & Automated Security Remediation | <a href="https://github.com/justinjudefernandes/Wazuh-Active-Response-Automated-Security-Remediation/">View Project</a> |
-| 4 | Wazuh Security Investigation & Incident Analysis | <a href="https://github.com/justinjudefernandes/Wazuh-Security-Investigation-Incident-Analysis/">View Project</a> |
-| 5 | Kali Linux C2 Simulation & Wazuh Security Monitoring | <a href="https://github.com/justinjudefernandes/Kali-Linux-C2-Simulation-Wazuh-Security-Monitoring/">View Project</a> |
-| 6 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="https://github.com/justinjudefernandes/Tines-SOAR-Integration-with-Wazuh-Automated-Security-Response/">View Project</a> |
+| 1. | Wazuh Platform Deployment & Endpoint Integration | <a href="https://github.com/justinjudefernandes/Wazuh-Platform-Deployment-Endpoint-Integration/">View Project</a> |
+| 2. | Wazuh Telemetry, SOC Monitoring & Threat Detection | <a href="https://github.com/justinjudefernandes/Wazuh-Telemetry-SOC-Monitoring-Threat-Detection/">View Project</a> |
+| 3. | Wazuh Active Response & Automated Security Remediation | <a href="https://github.com/justinjudefernandes/Wazuh-Active-Response-Automated-Security-Remediation/">View Project</a> |
+| 4. | Wazuh Security Investigation & Incident Analysis | <a href="https://github.com/justinjudefernandes/Wazuh-Security-Investigation-Incident-Analysis/">View Project</a> |
+| 5. | Kali Linux C2 Simulation & Wazuh Security Monitoring | <a href="https://github.com/justinjudefernandes/Kali-Linux-C2-Simulation-Wazuh-Security-Monitoring/">View Project</a> |
+| 6. | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="https://github.com/justinjudefernandes/Tines-SOAR-Integration-with-Wazuh-Automated-Security-Response/">View Project</a> |
 
 ## 🛠️ Capabilities Demonstrated
 This portfolio demonstrates the implementation and operation of a Wazuh-based security monitoring environment spanning Windows and Linux endpoints.
