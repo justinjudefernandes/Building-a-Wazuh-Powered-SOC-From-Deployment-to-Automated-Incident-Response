@@ -12,7 +12,7 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 | Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/blob/main/README.md/">View Project</a>|
 
 ## 🧠 What I Learned... 
-Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM/XDR platform and building a security monitoring environment spanning Windows and Linux endpoints.
+Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM platform and building a security monitoring environment spanning Windows and Linux endpoints.
 
 I developed practical skills in security log collection and analysis, alert triage, custom detection engineering, authentication monitoring, File Integrity Monitoring, and investigation of suspicious endpoint activity. I also learned how to correlate events across multiple telemetry sources to establish an incident timeline and determine the scope and impact of security events.
 
