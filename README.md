@@ -10,7 +10,7 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
-| 1 | Wazuh Platform Deployment & Endpoint Integration | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 1 | Wazuh Platform Deployment & Endpoint Integration | <a href="https://github.com/justinjudefernandes/Wazuh-Platform-Deployment-Endpoint-Integration/">View Project</a> |
 | 2 | Wazuh Telemetry, SOC Monitoring & Threat Detection | <a href="YOUR-GITHUB-LINK">View Project</a> |
 | 3 | Wazuh Active Response & Automated Security Remediation | <a href="YOUR-GITHUB-LINK">View Project</a> |
 | 4 | Wazuh Security Investigation & Incident Analysis | <a href="YOUR-GITHUB-LINK">View Project</a> |
