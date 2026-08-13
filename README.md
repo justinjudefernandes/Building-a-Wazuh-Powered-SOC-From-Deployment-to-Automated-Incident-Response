@@ -6,12 +6,7 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 
 ## 📊 Projects
 
-| Project Title                      | Link      |
-|-----------------------------------------------|----------------------------|
-| Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a>|
-| Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/blob/main/README.md/">View Project</a>|
-
-## 📊 Projects
+> **📌 Project Sequence:** The projects are arranged in sequential order, progressing from Wazuh deployment and foundational security monitoring through detection engineering, investigation, incident response, and automated SOAR workflows.
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
