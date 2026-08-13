@@ -17,7 +17,7 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 | 5 | Kali Linux C2 Simulation & Wazuh Security Monitoring | <a href="https://github.com/justinjudefernandes/Kali-Linux-C2-Simulation-Wazuh-Security-Monitoring/">View Project</a> |
 | 6 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="https://github.com/justinjudefernandes/Tines-SOAR-Integration-with-Wazuh-Automated-Security-Response/">View Project</a> |
 
-## 🧠 What I Learned... 
+## 🛠️ Capabilities Demonstrated
 Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM platform and building a security monitoring environment spanning Windows and Linux endpoints.
 
 I developed practical skills in security log collection and analysis, alert triage, custom detection engineering, authentication monitoring, File Integrity Monitoring, and investigation of suspicious endpoint activity. I also learned how to correlate events across multiple telemetry sources to establish an incident timeline and determine the scope and impact of security events.
