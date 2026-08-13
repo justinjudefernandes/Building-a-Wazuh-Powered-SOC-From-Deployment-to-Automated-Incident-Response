@@ -23,19 +23,19 @@ I further developed incident response capabilities through Wazuh Active Response
 Overall, this portfolio strengthened my understanding of the complete SOC workflow — from telemetry collection and detection to investigation, containment, and automated response.
 
 ## 🛡️ Skill Set
-- Wazuh SIEM/XDR – Deployment, administration, configuration, and security monitoring
-- Security Monitoring – Centralized collection and analysis of Windows and Linux telemetry
-- Detection Engineering – Custom Wazuh rules, alert creation, tuning, and event correlation
-- Log Analysis – Windows Security, Sysmon, Linux authentication, and system event analysis
-- Incident Investigation – Alert triage, event correlation, timeline reconstruction, and root cause analysis
-- Threat Hunting – Searching for suspicious authentication, account, process, and file activity
-- File Integrity Monitoring – Detection and investigation of file creation, modification, and deletion
-- Authentication Monitoring – Detection of failed/successful logins and suspicious account activity
-- Incident Response – Investigation, containment, and corrective response workflows
-- Active Response – Automated IP blocking and threat containment
-- SOAR Automation – Wazuh and Tines integration for automated security workflows
-- Security Automation – Alert enrichment, notification, response orchestration, and workflow automation
-- MITRE ATT&CK – Applying adversary tactics and techniques to security investigations
+- **Wazuh SIEM/XDR** – Deployment, administration, configuration, and security monitoring
+- **Security Monitoring** – Centralized collection and analysis of Windows and Linux telemetry
+- **Detection Engineering** – Custom Wazuh rules, alert creation, tuning, and event correlation
+- **Log Analysis** – Windows Security, Sysmon, Linux authentication, and system event analysis
+- **Incident Investigation** – Alert triage, event correlation, timeline reconstruction, and root cause analysis
+- **Threat Hunting** – Searching for suspicious authentication, account, process, and file activity
+- **File Integrity Monitoring** – Detection and investigation of file creation, modification, and deletion
+- **Authentication Monitoring** – Detection of failed/successful logins and suspicious account activity
+- **Incident Response** – Investigation, containment, and corrective response workflows
+- **Active Response** – Automated IP blocking and threat containment
+- **SOAR Automation** – Wazuh and Tines integration for automated security workflows
+- **Security Automation** – Alert enrichment, notification, response orchestration, and workflow automation
+- **MITRE ATT&CK** – Applying adversary tactics and techniques to security investigations
 
 ## 🧰 Tools
 <div>
