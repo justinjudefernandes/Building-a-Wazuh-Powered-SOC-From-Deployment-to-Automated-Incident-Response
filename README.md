@@ -11,6 +11,18 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 | Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a>|
 | Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/blob/main/README.md/">View Project</a>|
 
+## 📊 Projects
+
+| **S.No** | **Project Title** | **Link** |
+|---:|---|---|
+| 1 | Wazuh Deployment & SOC Lab Setup | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 2 | Wazuh Security Monitoring & Log Analysis | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 3 | Wazuh Custom Detection Rules & Alert Engineering | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 4 | Wazuh File Integrity Monitoring (FIM) | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 5 | Wazuh Incident Investigation | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 6 | Wazuh Active Response & Automated Blocking | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 7 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="YOUR-GITHUB-LINK">View Project</a> |
+
 ## 🧠 What I Learned... 
 Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM platform and building a security monitoring environment spanning Windows and Linux endpoints.
 
