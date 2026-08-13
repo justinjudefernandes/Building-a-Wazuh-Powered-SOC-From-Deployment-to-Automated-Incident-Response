@@ -18,30 +18,29 @@ To demonstrate Wazuh-based security operations capabilities across the SOC lifec
 | 6 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="https://github.com/justinjudefernandes/Tines-SOAR-Integration-with-Wazuh-Automated-Security-Response/">View Project</a> |
 
 ## 🛠️ Capabilities Demonstrated
-Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM platform and building a security monitoring environment spanning Windows and Linux endpoints.
+This portfolio demonstrates the implementation and operation of a Wazuh-based security monitoring environment spanning Windows and Linux endpoints.
 
-I developed practical skills in security log collection and analysis, alert triage, custom detection engineering, authentication monitoring, File Integrity Monitoring, and investigation of suspicious endpoint activity. I also learned how to correlate events across multiple telemetry sources to establish an incident timeline and determine the scope and impact of security events.
-
-The investigation projects provided practical experience analyzing account creation and privilege changes, authentication failures and successful logins, file modifications and deletions, and other indicators of potentially suspicious activity.
-
-I further developed incident response capabilities through Wazuh Active Response, implementing automated containment actions based on security detections. The integration with Tines extended these capabilities into SOAR workflows, demonstrating how security alerts can trigger automated enrichment, notification, investigation, and response processes.
-
-Overall, this portfolio strengthened my understanding of the complete SOC workflow — from telemetry collection and detection to investigation, containment, and automated response.
+- **SIEM/XDR Operations:** Deployed and administered Wazuh components for centralized security monitoring and telemetry analysis.
+- **Security Telemetry:** Integrated Windows Event Logs, Sysmon, Linux authentication logs, and endpoint telemetry for centralized visibility.
+- **Detection Engineering:** Developed and validated custom Wazuh rules for authentication, account manipulation, and suspicious endpoint activity.
+- **Threat Hunting & Investigation:** Correlated endpoint, authentication, account, process, and file integrity events to identify suspicious activity and reconstruct attack timelines.
+- **File Integrity Monitoring:** Configured and investigated file creation, modification, and deletion activity across Windows and Linux systems.
+- **Incident Response:** Applied Wazuh Active Response to automatically contain detected threats through source IP blocking.
+- **Adversary Simulation:** Used controlled attack simulations to validate detection coverage and analyze endpoint telemetry.
+- **SOAR Automation:** Integrated Wazuh with Tines to automate alert enrichment, analyst notification, decision workflows, and response actions.
+- **MITRE ATT&CK:** Applied adversary tactics and techniques to security investigations and detection analysis.
 
 ## 🛡️ Security Capabilities
-- **Wazuh SIEM/XDR** – Deployment, administration, configuration, and security monitoring
-- **Security Monitoring** – Centralized collection and analysis of Windows and Linux telemetry
-- **Detection Engineering** – Custom Wazuh rules, alert creation, tuning, and event correlation
-- **Log Analysis** – Windows Security, Sysmon, Linux authentication, and system event analysis
-- **Incident Investigation** – Alert triage, event correlation, timeline reconstruction, and root cause analysis
-- **Threat Hunting** – Searching for suspicious authentication, account, process, and file activity
-- **File Integrity Monitoring** – Detection and investigation of file creation, modification, and deletion
-- **Authentication Monitoring** – Detection of failed/successful logins and suspicious account activity
-- **Incident Response** – Investigation, containment, and corrective response workflows
-- **Active Response** – Automated IP blocking and threat containment
-- **SOAR Automation** – Wazuh and Tines integration for automated security workflows
-- **Security Automation** – Alert enrichment, notification, response orchestration, and workflow automation
-- **MITRE ATT&CK** – Applying adversary tactics and techniques to security investigations
+- **Wazuh SIEM/XDR** – Deployment, administration, configuration, monitoring, and detection
+- **Detection Engineering** – Custom Wazuh rules, alert logic, tuning, and event correlation
+- **Security Monitoring** – Windows and Linux telemetry collection and analysis
+- **Threat Hunting** – Authentication, account, process, and file activity analysis
+- **Incident Investigation** – Alert triage, event correlation, timeline reconstruction, and evidence analysis
+- **File Integrity Monitoring** – File creation, modification, and deletion detection
+- **Incident Response** – Containment, remediation, and corrective response workflows
+- **Active Response** – Automated source IP blocking and threat containment
+- **SOAR Automation** – Tines orchestration, API integration, alert enrichment, and response workflows
+- **MITRE ATT&CK** – Adversary behavior analysis and technique mapping
 
 ## 🧰 Tools
 <div>
