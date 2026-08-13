@@ -10,13 +10,12 @@ To develop practical SOC analyst capabilities by building and operating a Wazuh-
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
-| 1 | Wazuh Deployment & SOC Lab Setup | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 2 | Wazuh Security Monitoring & Log Analysis | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 3 | Wazuh Custom Detection Rules & Alert Engineering | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 4 | Wazuh File Integrity Monitoring (FIM) | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 5 | Wazuh Incident Investigation | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 6 | Wazuh Active Response & Automated Blocking | <a href="YOUR-GITHUB-LINK">View Project</a> |
-| 7 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 1 | Wazuh Platform Deployment & Endpoint Integration | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 2 | Wazuh Telemetry, SOC Monitoring & Threat Detection | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 3 | Wazuh Active Response & Automated Security Remediation | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 4 | Wazuh Security Investigation & Incident Analysis | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 5 | Kali Linux C2 Simulation & Wazuh Security Monitoring | <a href="YOUR-GITHUB-LINK">View Project</a> |
+| 6 | Tines SOAR Integration with Wazuh & Automated Security Response | <a href="YOUR-GITHUB-LINK">View Project</a> |
 
 ## 🧠 What I Learned... 
 Through this Wazuh-powered SOC portfolio, I gained hands-on experience deploying and administering Wazuh as an open-source SIEM platform and building a security monitoring environment spanning Windows and Linux endpoints.
