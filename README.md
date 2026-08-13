@@ -2,11 +2,11 @@
 A hands-on Wazuh SOC portfolio showcasing the implementation of a security monitoring environment across Windows and Linux systems. The projects cover the complete SOC lifecycle, including platform deployment, telemetry collection, detection engineering, threat hunting, alert triage, incident investigation, File Integrity Monitoring, automated containment, and SOAR-driven response workflows.
 
 ## 🎯 Objective
-To develop practical SOC analyst capabilities by building and operating a Wazuh-based security operations environment. The objective was to gain experience transforming raw security telemetry into actionable detections, investigating suspicious activity, validating security events, and applying automated response mechanisms to improve the speed and consistency of incident handling.
+To demonstrate Wazuh-based security operations capabilities across the SOC lifecycle, including platform deployment, endpoint telemetry collection, detection engineering, threat hunting, incident investigation, automated containment, and SOAR-driven response orchestration.
 
 ## 📊 Projects
 
-> **📌 Project Sequence:** The projects are arranged in sequential order, progressing from Wazuh deployment and foundational security monitoring through detection engineering, investigation, incident response, and automated SOAR workflows.
+> **📌 Portfolio Structure:** The projects demonstrate progressively broader Wazuh security operations capabilities, covering platform deployment, telemetry collection, detection engineering, threat hunting, incident investigation, adversary simulation, automated containment, and SOAR-driven response.
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
